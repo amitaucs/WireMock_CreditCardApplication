@@ -1,0 +1,6 @@
+server:
+  port: 8001
+credit:
+  rating:
+    url: http://localhost:8002
+
